@@ -1,0 +1,33 @@
+.course-style{
+    width: 100%;
+    display: flex;
+    padding: 0 20px;
+    padding: 5px 0px;
+    padding-left: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.course-style img{
+    height: 100%;
+    width: auto;
+    margin: auto 0;
+    margin-right: 20px;
+}
+.course-style h1{
+    font-size:18px;
+    margin-top: 20px;
+}
+.course-style p{
+    margin:9.8px 0;
+}
+.button{
+    /* display: flex;
+    justify-content: flex-end; */
+    width: 50%;
+    margin-left: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: Gold;
+}
+.button:hover{
+    background-color: red;
+}

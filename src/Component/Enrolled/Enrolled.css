@@ -1,0 +1,30 @@
+.enrolled-body{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 15px 0;
+    padding: 0 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+.enrolled-body img{
+    height: 50px;
+    margin-right: 10px;
+}
+.enrolled-info{
+    width: 100%;
+
+}
+.enrolled-detail{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+.enrolled-body h1{
+    width: 100%;
+    font-size: 14px;
+    margin: 0;
+}

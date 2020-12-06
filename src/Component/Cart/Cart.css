@@ -1,0 +1,28 @@
+.cart-info{
+    text-align: center;
+    box-shadow: 0 0 5px gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+.cart-info h1{
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    border-bottom: 1px solid lightgrey;
+    margin: 20px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.cart-info p span{
+    font-weight: 700;
+}
+.cart-item{
+    height: 350px;
+    overflow-y: scroll; 
+}
+.cart-icon{
+    color: orange;
+}
+.total-course{
+    color: orange;
+}
